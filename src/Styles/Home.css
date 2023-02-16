@@ -1,0 +1,95 @@
+nav img {
+    height: 40px;
+    border-radius: 3px;
+}
+
+.navBrand {
+    font-family: 'Babylonica', cursive;
+    font-size: 1.7rem;
+}
+
+nav .navlink {
+    margin: 0 2px;
+}
+
+.home-page {
+    height: fit-content;
+    width: 100vw;
+    overflow: hidden;
+    overflow-y: scroll;
+}
+
+.clippy {
+    border-radius: 50%;
+    background-color: #f1c40f;
+    height: 250px;
+    width: 250px;
+    margin: auto;
+}
+
+.clippy h4 {
+    height: 250px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    font-family: 'Dancing Script', cursive;
+    font-size: 2rem;
+}
+
+.profileImage {
+    height: 400px;
+    display: block;
+    border-radius: 5px;
+    margin: auto;
+}
+
+.paper {
+    margin: auto;
+    height: fit-content;
+    width: fit-content;
+}
+
+.resume-btn {
+    display: block;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.technologyCard {
+    width: 345px;
+    height: 300px;
+}
+
+@media (max-width:990px) {
+    nav .navlink {
+        margin-top: 2px;
+        margin-bottom: 2px;
+        border: 1px solid #dc3545;
+    }
+}
+
+@media (max-width:766px) {
+    .technologyCard {
+        width: 70vw;
+        height: fit-content;
+    }
+}
+
+@media (max-width:450px) {
+    .clippy {
+        height: 200px;
+        width: 200px;
+    }
+
+    .clippy h4 {
+        height: 200px;
+        font-size: 1.6rem;
+    }
+
+    .technologyCard {
+        width: 80vw;
+        height: fit-content;
+    }
+}

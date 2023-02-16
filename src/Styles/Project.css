@@ -1,0 +1,15 @@
+.projectPageHeading {
+    font-family: 'Kalam', cursive;
+}
+
+.projectCard {
+    width: 345px;
+    height: 500px;
+}
+
+@media (max-width:766px) {
+    .projectCard {
+        width: 340px;
+        height: fit-content;
+    }
+}

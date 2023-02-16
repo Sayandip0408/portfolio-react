@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ff1cad70.css",
+    "main.js": "/static/js/main.019a5461.js",
+    "static/media/amazkart.png": "/static/media/amazkart.422b3da6717148a389f2.png",
+    "static/media/ku.jpg": "/static/media/ku.9d7df891bb891b3be00e.jpg",
+    "static/media/Profile.jpeg": "/static/media/Profile.2645420f79f318b1fa69.jpeg",
+    "static/media/quizbuzz.png": "/static/media/quizbuzz.5dc7d91f390898e6446b.png",
+    "static/media/codepen.png": "/static/media/codepen.ff04436e325ea28cf2d2.png",
+    "static/media/tictactoe.png": "/static/media/tictactoe.fc01338cea246bad33c3.png",
+    "static/media/lockeKey.png": "/static/media/lockeKey.a65968661291bd26890c.png",
+    "static/media/bstm.jpeg": "/static/media/bstm.391bdd5aa0fcff1e2e37.jpeg",
+    "static/media/SayanDipCV4.pdf": "/static/media/SayanDipCV4.338b5dff6c8e91b77476.pdf",
+    "static/media/SA_Logo.png": "/static/media/SA_Logo.088b6d752ab9be3ca6c2.png",
+    "static/media/cpp.png": "/static/media/cpp.52cac406d9bc125ec8bc.png",
+    "static/media/html.jpg": "/static/media/html.e69f8d42d8059a8d60c2.jpg",
+    "static/media/opentowork.svg": "/static/media/opentowork.8a424195087c4504326f7cdd329c0f86.svg",
+    "static/media/python.webp": "/static/media/python.7e07332ee462ecbb0aaf.webp",
+    "static/media/react.svg": "/static/media/react.16d32a771ac3a4154b3735d522602b8b.svg",
+    "index.html": "/index.html",
+    "main.ff1cad70.css.map": "/static/css/main.ff1cad70.css.map",
+    "main.019a5461.js.map": "/static/js/main.019a5461.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff1cad70.css",
+    "static/js/main.019a5461.js"
+  ]
+}
